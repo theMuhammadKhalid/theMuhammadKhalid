@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @theMuhammadKhalid
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I’m Muhammad Khalid
 
 <!---
 theMuhammadKhalid/theMuhammadKhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
