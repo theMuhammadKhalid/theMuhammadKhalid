@@ -1,4 +1,5 @@
-# Hi there, I’m Muhammad Khalid
+## Hi there,
+I am **Muhammad Khalid**, a Computer Engineer.
 
 <!---
 theMuhammadKhalid/theMuhammadKhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
