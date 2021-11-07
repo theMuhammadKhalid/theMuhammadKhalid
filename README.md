@@ -3,7 +3,7 @@ theMuhammadKhalid/theMuhammadKhalid is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi there,
+# Hi there,
 I am [Muhammad Khalid](https://muhammadkhalid.xyz/), a Computer Engineer who loves to build things on the internet.
 
 ## What I've done
