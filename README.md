@@ -8,10 +8,10 @@ I am [Muhammad Khalid](https://muhammadkhalid.xyz/), a Computer Engineer who lov
 
 ## What I've done
 - [dintreuhaender.ch](https://dintreuhaender.ch/), a website which is created with the help of technology like Next.js
-- [Hand Gesture KeyMouse](https://themuhammadkhalid.github.io/hand-gesture-keymouse/), a computer vision based software for controlling keyboard or mouse events by using hand gestures.
-- [Alien Invasion](https://themuhammadkhalid.github.io/alien-invasion/), a game which is created with the help of python programming language.
+- [Hand Gesture KeyMouse](https://themuhammadkhalid.github.io/hand-gesture-keymouse/), a computer vision based software for controlling keyboard or mouse events by using hand gestures
+- [Alien Invasion](https://themuhammadkhalid.github.io/alien-invasion/), a game which is created with the help of python programming language
  
 And see more projects on this GitHub profile ! 
 
 ## Contact
-You can ping me via [email](mailto:themuhammadkhalid@gmail.com)
+You can ping me via [email](mailto:themuhammadkhalid@gmail.com).
